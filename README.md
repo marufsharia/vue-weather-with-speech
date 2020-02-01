@@ -23,4 +23,4 @@ yarn lint
 
 # vue-weather-with-speech
 Simple weather app with speech functionality using vue js. 
->>>>>>> 980e9eebbf64e323fa20ae1dbeacdc254dbc9037
+
